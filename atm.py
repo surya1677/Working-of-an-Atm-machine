@@ -1,4 +1,4 @@
-print("Welcome to ABC Bank\n\nInsert your card")
+print("Welcome to the ABC Bank\n\nInsert your card")
 print("Name: Mr.John")
 choice=0
 balance=10000
